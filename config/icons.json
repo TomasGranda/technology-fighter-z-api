@@ -1,0 +1,54 @@
+[
+  { 
+    "name": "Docker", 
+    "icon": "fab fa-docker"
+  },
+  { 
+    "name": "React", 
+    "icon": "fab fa-react"
+  },
+  { 
+    "name": "HTML5", 
+    "icon": "fab fa-html5"
+  },
+  { 
+    "name": "Js", 
+    "icon": "fab fa-js"
+  },
+  { 
+    "name": "Firefox", 
+    "icon": "fab fa-firefox"
+  },
+  { 
+    "name": "Internet Explorer", 
+    "icon": "fab fa-internet-explorer"
+  },
+  { 
+    "name": "Chrome", 
+    "icon": "fab fa-chrome"
+  },
+  { 
+    "name": "Twitter", 
+    "icon": "fab fa-twitter"
+  },
+  { 
+    "name": "GitLab", 
+    "icon": "fab fa-gitlab"
+  },
+  { 
+    "name": "GitHub", 
+    "icon": "fab fa-github"
+  },
+  { 
+    "name": "GitKraken", 
+    "icon": "fab fa-gitkraken"
+  },
+  { 
+    "name": "Apple", 
+    "icon": "fab fa-apple"
+  },
+  { 
+    "name": "AWS", 
+    "icon": "fab fa-aws"
+  }
+]
